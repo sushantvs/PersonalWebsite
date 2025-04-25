@@ -42,12 +42,7 @@ PersonalWebsite/
    ```bash
    bundle exec jekyll serve
    ```
-
-## Contributing
-1. Create a new branch
-2. Make your changes
-3. Submit a pull request
-
+   
 ## Deployment
 The site is automatically deployed to GitHub Pages through GitHub Actions. See the workflow in `.github/workflows/`.
 

@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Hello! I'm Sushant. I am Software Developer Engineer, working as a Informatiker Architect (German for Computer Scientist Engineer) and interested in designing and crafting efficient modern software, and learning new tools and technologies on the way!
 baseurl: "/PersonalWebsite" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jatinkrmalik
+#twitter_username: xxxx
 github_username:  sushantvs
 
 # Build settings

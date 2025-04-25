@@ -1,0 +1,79 @@
+- key: Name
+  value: Sushant Suresh Vantimar
+
+- key: Description
+  typed: true
+  value:
+    - Full Stack Developer
+    - Informatiker Architect (Computer Scientist Architect)
+    - Problem Solver
+    - DevOps Engineer
+    - Techincal Lead
+    - Cloud Infrastructure Engineer
+
+- key: Location
+  value: Heilbronn, Germany
+
+- key: Curriculum Vitae / Resume
+  value: Resume.pdf
+  url: /Resume.pdf
+
+- key: About_Me
+  value:
+    - 12+ years of professional experience in designing, developing, supporting, and maintaining enterprise-scale applications across industries
+    - Proficient in AWS and Azure cloud environment, Docker, Kubernetes
+    - Proven track record in application migration projects, legacy modernization, and performance tuning of large-scale systems.
+    - Passionate about building resilient, high-throughput applications
+
+- key: Experience
+  value:
+    - key: Informatiker Architect (Computer Scientist Architect)
+      value: DB Zeitarbeit GmbH
+      url: https://www.dbzeitarbeit.de/zeitarbeit-de
+    - key: Software Developer
+      value: Carl Zeiss Automated Inspection GmbH
+      url: https://www.zeiss.de/messtechnik/home.html
+    - key: Software Developer Intern
+      value: BMW AG
+      url: https://www.bmwgroup.com/de.html
+    - key: Senior Software Engineer
+      value: Mindtree Ltd.
+      url: https://www.ltimindtree.com/
+
+- key: Soft_Skills
+  value:
+    - Leadership
+    - Problem Solving
+    - Mentorship
+
+- key: Languages
+  value:
+    - .NET Tech stack
+    - C#
+    - C/C++
+
+- key: Databases
+  value:
+    - MySQL
+    - MSSQL
+    - Redis
+
+- key: Infrastructure
+  value:
+    - AWS/GCP/Azure
+    - Docker/Kubernetes
+    - Bare Metal Servers
+
+- key: Hardware
+  value:
+    - Raspberry Pi
+    - Arduino
+
+- key: Social
+  value:
+    - value: LinkedIn
+      url: https://linkedin.com/in/sushantvs
+    - value: GitHub
+      url: https://github.com/sushantvs
+    - value: Email
+      url: "mailto:sushantvs@gmail.com"
